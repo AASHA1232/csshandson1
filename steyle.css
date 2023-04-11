@@ -1,0 +1,32 @@
+h1{
+    color: red;
+}
+ol{
+    color: blueviolet;
+}
+.con{
+    line-height: 32px;
+}
+h2{
+    font-style: italic;
+    color: tomato;
+}
+.it{
+    text-decoration: line-through;
+}
+.bg{
+    background-color: yellow;
+}
+#demo{
+    font-style: italic;
+    text-decoration: underline;
+}
+.con2{
+    letter-spacing: 12px;
+}
+a{
+    background-color: yellow;
+    font-style: italic;
+    text-decoration: none;
+
+}
